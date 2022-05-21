@@ -1,0 +1,186 @@
+{
+    "annotations": [
+        {
+            "file_name": "000000_panoptic.png",
+            "image_id": "000000",
+            "segments_info": [
+                {
+                    "area": 105,
+                    "bbox": [
+                        970,
+                        92,
+                        12,
+                        26
+                    ],
+                    "category_id": 24,
+                    "id": 24001,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 164,
+                    "bbox": [
+                        933,
+                        105,
+                        8,
+                        32
+                    ],
+                    "category_id": 24,
+                    "id": 24002,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 434,
+                    "bbox": [
+                        1568,
+                        152,
+                        35,
+                        46
+                    ],
+                    "category_id": 24,
+                    "id": 24003,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 479,
+                    "bbox": [
+                        1677,
+                        166,
+                        49,
+                        50
+                    ],
+                    "category_id": 24,
+                    "id": 24004,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 2411,
+                    "bbox": [
+                        428,
+                        420,
+                        81,
+                        106
+                    ],
+                    "category_id": 24,
+                    "id": 24005,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 624,
+                    "bbox": [
+                        976,
+                        92,
+                        42,
+                        21
+                    ],
+                    "category_id": 26,
+                    "id": 26001,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 701,
+                    "bbox": [
+                        1020,
+                        107,
+                        31,
+                        30
+                    ],
+                    "category_id": 26,
+                    "id": 26002,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 481,
+                    "bbox": [
+                        1076,
+                        119,
+                        32,
+                        33
+                    ],
+                    "category_id": 26,
+                    "id": 26003,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 1403,
+                    "bbox": [
+                        1082,
+                        133,
+                        41,
+                        41
+                    ],
+                    "category_id": 26,
+                    "id": 26004,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 1159,
+                    "bbox": [
+                        1020,
+                        140,
+                        39,
+                        36
+                    ],
+                    "category_id": 26,
+                    "id": 26005,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 12414,
+                    "bbox": [
+                        459,
+                        296,
+                        217,
+                        81
+                    ],
+                    "category_id": 26,
+                    "id": 26006,
+                    "iscrowd": 0
+                },
+                {
+                    "area": 10966,
+                    "bbox": [
+                        0,
+                        329,
+                        139,
+                        133
+                    ],
+                    "category_id": 26,
+                    "id": 26007,
+                    "iscrowd": 0
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "color": [
+                220,
+                20,
+                60
+            ],
+            "id": 24,
+            "isthing": 1,
+            "name": "person",
+            "supercategory": "human"
+        },
+        {
+            "color": [
+                0,
+                0,
+                142
+            ],
+            "id": 26,
+            "isthing": 1,
+            "name": "car",
+            "supercategory": "vehicle"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "000000_img.png",
+            "height": 1024,
+            "id": "000000",
+            "width": 2048
+        }
+    ]
+}
